@@ -1,0 +1,29 @@
+
+
+body{
+    background-color:rgb(185, 168, 141)
+}
+
+
+.row{
+    margin-top: 50px;
+}
+
+
+.radius{
+    border-radius: 25%;
+    box-shadow: 5px 5px 5px 2px;
+}
+
+h1{
+    background-color: rgba(109, 103, 103, 0.548);
+    border-radius:  5px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+
+.d-block{
+    
+}
