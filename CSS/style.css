@@ -1,0 +1,26 @@
+
+body{
+    background-image: url(./RBNU5529.gif);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+   
+#Titre{
+    text-align: center;
+    margin-top: 12%;
+    background-color: rgba(0, 0, 0, 0.521);
+    margin-left: 15em;
+    margin-right: 15em;
+    padding: 150px;
+    font-size: 10px;
+    color: blanchedalmond;
+    border-radius: 10px;
+
+    
+}    
+
+#Text{
+    font-size: 75px;
+    font-family: 'Cinzel', serif;
+}
+
